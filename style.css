@@ -1,0 +1,10 @@
+#heading{
+    width: 500px;
+    font-size: 30px;
+}
+body{
+    background: linear-gradient(pink, yellow);
+}
+#snapshot, #identify{
+    width: 300px;
+}
